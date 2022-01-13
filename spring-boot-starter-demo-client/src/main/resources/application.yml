@@ -1,0 +1,7 @@
+demo:
+  open: true
+  connectTimeout: 10000
+  readTimeout: 10000
+  writeTimeout: 10000
+  host: localhost
+  port: 8081
